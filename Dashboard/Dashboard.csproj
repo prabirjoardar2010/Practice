@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Include="wwwroot\*" />
+    <Folder Include="wwwroot\*" />
     <Content Remove="package.json" />
   </ItemGroup>
 
